@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.30.0"
+  version: "1.31.3"
 
 package:
   name: cloudsmith-cli
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/cloudsmith-cli/cloudsmith_cli-${{ version }}.tar.gz
-  sha256: f76c9330b1215fe6af6a42fe171249766fe5b3e4922d437ea2d2bc6e94e4335b
+  sha256: 9ed4ef5123ad0bcc3a411a00251e8b4b641cfac5476e25a02253a7c50559697f
 
 build:
   number: 0
